@@ -1,0 +1,327 @@
+canonical_identifier: bkk:krp/KR3ea018/v1
+canonical_location: https://kanripo.org/bkk/KR3ea018/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫宗金鑑·運氣要訣
+  identifiers:
+    krp: KR3ea018
+  tags:
+    kr-categories: KR3ea
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea018.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ea018_000.yaml, hash: 'sha256:48a3e7ec8d72f0e8cc124762cc2ef1b905e2049454433e99121a9721ef20cf85'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ea018_000.markers.yaml, hash: 'sha256:40abb5d4fe277fd7af6b226d1cddfb2f41afb8ebaafa6ef2e1c2c981cdd165ba'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 14609
+  label: 正文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d4
+    span:
+    - body
+    - 141
+    - 840
+  label: 太虛理氣天地陰陽歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d5
+    span:
+    - body
+    - 840
+    - 1460
+  label: 五行質氣生剋制化歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d6
+    span:
+    - body
+    - 1460
+    - 2171
+  label: 運氣合臟腑十二經絡歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d7
+    span:
+    - body
+    - 2171
+    - 2478
+  label: 主運歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d8
+    span:
+    - body
+    - 2478
+    - 2979
+  label: 主氣歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d9
+    span:
+    - body
+    - 2979
+    - 3364
+  label: 客運歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d10
+    span:
+    - body
+    - 3364
+    - 3769
+  label: 客氣司天在泉間氣歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d11
+    span:
+    - body
+    - 3769
+    - 4058
+  label: 運氣分主節令歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d12
+    span:
+    - body
+    - 4058
+    - 4326
+  label: 五音主客太少相生歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d13
+    span:
+    - body
+    - 4326
+    - 4875
+  label: 五運齊化兼化六氣正化對化歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d14
+    span:
+    - body
+    - 4875
+    - 5476
+  label: 六十年運氣上下相臨歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d15
+    span:
+    - body
+    - 5476
+    - 5814
+  label: 起主客定位指掌歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d16
+    span:
+    - body
+    - 5814
+    - 6300
+  label: 天符太乙天符歲會同天符同歲會歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d17
+    span:
+    - body
+    - 6300
+    - 6561
+  label: 執法行令貴人歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d18
+    span:
+    - body
+    - 6561
+    - 7174
+  label: 南北政年脈不應歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d19
+    span:
+    - body
+    - 7174
+    - 7420
+  label: 五運氣令微甚歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d20
+    span:
+    - body
+    - 7420
+    - 7704
+  label: 五運平氣太過不及歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d21
+    span:
+    - body
+    - 7704
+    - 8031
+  label: 運氣所至先後時歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d22
+    span:
+    - body
+    - 8031
+    - 8466
+  label: 運氣亢害承製歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d23
+    span:
+    - body
+    - 8466
+    - 8768
+  label: 六氣勝復歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d24
+    span:
+    - body
+    - 8768
+    - 9436
+  label: 五運鬱極乃發歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d25
+    span:
+    - body
+    - 9436
+    - 9723
+  label: 天時地化五病二火歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d26
+    span:
+    - body
+    - 9723
+    - 10173
+  label: 五星所見太過不及歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d27
+    span:
+    - body
+    - 10173
+    - 10699
+  label: 五行德政令化災變歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d28
+    span:
+    - body
+    - 10699
+    - 11113
+  label: 五行地化蟲畜谷果有太過不及齊兼化歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d29
+    span:
+    - body
+    - 11113
+    - 12101
+  label: 運氣為病歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d30
+    span:
+    - body
+    - 12101
+    - 13298
+  label: 五運客運太過為病歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d31
+    span:
+    - body
+    - 13298
+    - 14252
+  label: 六氣客氣主病歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ea018_jc_000-d2d32
+    span:
+    - body
+    - 14252
+    - 14609
+  label: 運氣當審常變歌
+  type: section
+  level: 2
+hash: sha256:be6c676e866550bf9518e2dc52b685419042080f3421f19bbd435b9502bce7af
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
