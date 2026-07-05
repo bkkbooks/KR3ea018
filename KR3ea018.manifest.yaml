@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ea018_000.yaml, hash: 'sha256:48a3e7ec8d72f0e8cc124762cc2ef1b905e2049454433e99121a9721ef20cf85'}
+  - {seq: 0, filename: KR3ea018_000.yaml, hash: 'sha256:62c3eaa58b06143cc2618b016836db4d7333e8627cdfcacb08260e7b234c83e3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea018_000.markers.yaml, hash: 'sha256:40abb5d4fe277fd7af6b226d1cddfb2f41afb8ebaafa6ef2e1c2c981cdd165ba'}
+  - {seq: 0, role: markers, filename: assets/KR3ea018_000.markers.yaml, hash: 'sha256:2f5bc3f03a63ee02a69c0b24485509d593bbd94fd0ec8328c04630b9fda007f4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -321,7 +321,4 @@ table_of_contents:
   label: 運氣當審常變歌
   type: section
   level: 2
-hash: sha256:be6c676e866550bf9518e2dc52b685419042080f3421f19bbd435b9502bce7af
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:861ad7795a56127e3bccbd88e658ea4aecc8db7736f7cff18c5f3ef6738fe7d4
