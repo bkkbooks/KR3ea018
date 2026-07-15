@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ea018/v1
 canonical_location: https://kanripo.org/bkk/KR3ea018/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫宗金鑑·運氣要訣
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ea018_000.yaml, hash: 'sha256:62c3eaa58b06143cc2618b016836db4d7333e8627cdfcacb08260e7b234c83e3'}
+  - {seq: 0, filename: KR3ea018_000.yaml, hash: 'sha256:1fe3850fcdf16743887cce1266d92f0094f0efccd5f6ee13a8465c479a4cfcef'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea018_000.markers.yaml, hash: 'sha256:2f5bc3f03a63ee02a69c0b24485509d593bbd94fd0ec8328c04630b9fda007f4'}
+  - {seq: 0, role: markers, filename: assets/KR3ea018_000.markers.yaml, hash: 'sha256:b94d4ef4399623e521364bac63c1fc365a64a46449aa667b0270db65d114f007'}
 table_of_contents:
 - ref:
     seq: 0
@@ -321,4 +321,7 @@ table_of_contents:
   label: 運氣當審常變歌
   type: section
   level: 2
-hash: sha256:861ad7795a56127e3bccbd88e658ea4aecc8db7736f7cff18c5f3ef6738fe7d4
+hash: sha256:09ca366fe64af582648282dd0ca8fc21759e75c5abf2404b636b0a9d270ed8f6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
